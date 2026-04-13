@@ -74,6 +74,8 @@ Your UI must correctly represent all report/run statuses:
 3. **README** in your repo explaining how to run the project locally and any environment variables needed.
 4. A brief **design rationale** explaining your UI/UX decisions.
 
+Create a folder in the same Repo , format is ( yourname_taskNum_dateofupload ) and upload your assessment files there. 
+
 ---
 
 ## Questions?
