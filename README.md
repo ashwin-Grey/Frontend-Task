@@ -69,13 +69,13 @@ Your UI must correctly represent all report/run statuses:
 
 ## Deliverables Expected
 
-1. **Source code** for all pages listed above (framework of your choice).
+1. **Source code** for all pages listed above.
 2. **API integration layer** — a clean service/client abstraction for all API calls.
 3. **README** in your repo explaining how to run the project locally and any environment variables needed.
-4. (Optional but appreciated) A brief **design rationale** explaining your UI/UX decisions.
+4. A brief **design rationale** explaining your UI/UX decisions.
 
 ---
 
 ## Questions?
 
-If anything is unclear about the expected functionality, refer to the reference screenshots provided or reach out before starting. Do not make assumptions about API contracts — confirm endpoint specs before building.
+If anything is unclear about the expected functionality, refer to the reference screenshots provided or reach out before starting.
