@@ -26,7 +26,7 @@ These screenshots are for **reference only** — to help you understand the feat
 ### 1. Design — Create Your Own UI
 
 - Design a **fresh, original interface** inspired by the functionality shown in the references.
-- You may use any design system or component library of your choice (e.g., shadcn/ui, MUI, Ant Design, Tailwind, etc.).
+- You may use any design system or component library of your choice .
 - The design must cover the following pages/sections:
   - **Dashboard** — Summary stats (Active Profiles, Tokens Used, Total Analyses, Last Analysis, Profiles with Analysis) and a list of business profiles.
   - **Reports & History** — A searchable, filterable table of past reports with columns: Report ID, Report Name, Business Profile, URL, Type, Date, Status, Score, and Actions. Include Timeline and Grouped view toggles.
