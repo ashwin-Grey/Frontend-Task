@@ -1,0 +1,20 @@
+{
+  "name": "Septuple",
+  "title": "Septuple | Advanced Website Auditor & SEO Analyzer",
+  "description": "Optimize your website performance, SEO, and technical hygiene with Septuple's comprehensive auditing tools. Get deep insights into page speed, core web vitals, and more.",
+  "keywords": [
+    "seo audit",
+    "website analyzer",
+    "core web vitals",
+    "page speed optimization",
+    "technical seo"
+  ],
+  "author": "Septuple",
+  "url": "https://septuple.com",
+  "themeColor": "#4F46E5",
+  "socials": {
+    "twitter": "@septuple",
+    "facebook": "septuple-audit"
+  },
+  "ogImage": "/og-image.png"
+}
